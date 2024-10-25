@@ -7,3 +7,5 @@ I use Arch Linux as my main operating system.
 Now I'm learning Python, AI and Web.
 
 Love AI very much and want to use AI in my daily life.
+
+[Chat](http://chat.davidx.us.kg)
