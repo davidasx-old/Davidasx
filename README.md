@@ -8,4 +8,4 @@ Now I'm learning Python, AI and Web.
 
 Love AI very much and want to use AI in my daily life.
 
-[Chat](http://chat.davidx.us.kg)
+[Chat](https://chat.davidx.us.kg)
