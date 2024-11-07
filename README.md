@@ -24,4 +24,6 @@ Love AI very much and want to use AI in my daily life.
 
 ## 🔗 Links
 
-[Chat with me](https://chat.davidx.us.kg)
+[Blog](https://davidx.us.kg)
+
+[Free Chatbot](https://free.chat.davidx.us.kg)
