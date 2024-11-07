@@ -1,4 +1,4 @@
-# Welcome to my GitHub Homepage! 🏡
+# Welcome to my GitHub Homepage! 
 I am DavidX, a university student.
 
 I was once engaged in C++ contest programming, but got really weak and quit.
