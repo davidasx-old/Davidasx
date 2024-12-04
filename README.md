@@ -1,4 +1,6 @@
 # Welcome to my Homepage! 
+![](https://github-readme-stats-one-bice.vercel.app/api?username=Davidasx&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only)
+
 I am DavidX, a university student.
 
 I was once engaged in C++ contest programming, but got really weak and quit. 👨‍💻
