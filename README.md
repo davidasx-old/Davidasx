@@ -13,9 +13,9 @@ Love AI very much and want to use AI in my daily life. 🤖
 
 ## 🚀 Recent Projects
 
-- [flask-gpt](https://github.com/Davidasx/flask-gpt) - ChatGPT Web UI implemented with Flask, HTML, Javascript, and CSS
-- [blog-framework-template](https://github.com/Davidasx/blog-framework-template) - Blog framework template with SCSS
-- [wordle-cpp](https://github.com/Davidasx/wordle-cpp) - A C++ implementation of Wordle
+- [flask-gpt ![](https://img.shields.io/github/languages/code-size/Davidasx/flask-gpt)](https://github.com/Davidasx/flask-gpt) - ChatGPT Web UI implemented with Flask, HTML, Javascript, and CSS
+- [blog-framework-template ![](https://img.shields.io/github/languages/code-size/Davidasx/blog-framework-template)](https://github.com/Davidasx/blog-framework-template) - Blog framework template with SCSS
+- [wordle-cpp-new ![](https://img.shields.io/github/languages/code-size/Davidasx/wordle-cpp-new)](https://github.com/Davidasx/wordle-cpp-new) - A C++ implementation of Wordle
 
 ## 💻 Tech Stack
 
