@@ -28,4 +28,4 @@ Love AI very much and want to use AI in my daily life. 🤖
 
 [Blog](https://blog.davidx.top) 📝
 
-[Free ChatGPT](https://github.com/Davidasx/FR33-CH4T) 🤖
+[Free AI Chat](https://github.com/Davidasx/FR33-CH4T) 🤖
